@@ -30,3 +30,6 @@ Description of DATA files:
 ‘train_v3.xlsx’: Training dataset for the model.
 ‘test_v3.xlsx’: dataset to test the performance of the finetuned model using performance metrics like F1, accuracy, etc.
 
+Report file:
+https://drive.google.com/file/d/1_JyUVIR9gdvoiel_DYTNTp5z7Pr8mLDa/view?usp=drive_link
+
