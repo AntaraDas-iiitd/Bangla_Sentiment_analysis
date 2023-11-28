@@ -16,6 +16,7 @@ Description of CODE files:
 
 ‘Bengali_Data_Preparation.ipynb’: In this file, the NLP tools for the Bengali language are explored for data preprocessing and visualisation. The training dataset is prepared in this file, combining and preprocessing the existing datasets. Also, the news articles dataset is prepared as an individual JSON file for each article.
 ‘bsa_train2.py’: This file contains the code to finetune the BERT model for the downstream task of sentiment classification.
+‘Bengali_Fasttext.ipynb’: It contains an ML approach for training sentiment classification.
 ‘Bsa_test.ipynb’: This file is used to test the performance of the finetuned model in terms of performance metrics like accuracy, F1-score, etc.
 ‘Analysis_Visualise.ipynb’: This file creates all the analysis plots on the prediction files.
 ‘Bsentiment_infer_v2.ipynb’: This file contains the code for real-time inference as desired in the requirement. This file contains code to process each incoming news file, generate the prediction and store them in an output directory.
